@@ -1,5 +1,5 @@
 # MLP
-Build MLP from scratch only using python.numpy
+Implementation of a Multi-layer perceptron in python only using the numpy library. 
 
 ## Example for solving the XOR-Problem
 
